@@ -15,7 +15,7 @@ Allez sur le [site](https://www.dropbox.com/) et enregistrez vous:
 
 Cliquez en haut à droite sur "Paramètres", allez sur l'onglet Dropbox puis cocher la case "`Dropbox active`{: style="color:   #3368ff; opacity: 1;" }".
 
-{% include manuelimg.md name = "Dropbox7.jpg"%}
+{% include manuelimg.md name="Dropbox7.jpg"%}
 
 Afin de lier votre GNUVario-e à votre compte Dropbox, vous devez récupérer un code en suivant la procédure indiquée. Appuyez sur la case "`Récupérer un code`{: style="color:   #3368ff; opacity: 1;" }" puis suivez les instructions.
 
@@ -23,8 +23,8 @@ Une fois votre code généré, copiez le et collez le dans la fenêtre "`Code Dr
 
 Appuyez sur `OK`{: style="color:   #3368ff; opacity: 1;" } pour enregistrer et fermer. Les différents icônes en relation avec la fonction de sauvegarde Dropbox apparaitront alors sur les pages concernées. 
 
-{% include manuelimg.md name = "Dropbox5.jpg"%}
-{% include manuelimg.md name = "Dropbox6.jpg"%}
-
+{% include manuelimg.md name="Dropbox5.jpg"%}
+{% include manuelimg.md name="Dropbox6.jpg"%}
+{% include manuelimg.md name="logparalogbook.png"%}
 
 
