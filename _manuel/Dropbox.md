@@ -25,6 +25,6 @@ Appuyez sur `OK`{: style="color:   #3368ff; opacity: 1;" } pour enregistrer et f
 
 {% include manuelimg.md name="Dropbox5.jpg"%}
 {% include manuelimg.md name="Dropbox6.jpg"%}
-{% include manuelimg.md name="logparalogbook.png"%}
+
 
 
