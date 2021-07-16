@@ -43,7 +43,7 @@ Placez le haut parleur dans la fixation disponible sur le couvercle du boitier *
 Le baromètre MS5611 soudé sur la CJMCU-117 est très sensible à la lumière. Placez un petit morceau de mousse ou de neoprène sur la plaquette pour la protéger des rayons du soleil qui pourraient passer à travers les boutons du boitier. 
 
 **Attention** de bien calculer l'épaisseur pour ne pas endommager les composants à la fermeture du boitier. 
-{% include tutoimg.md name="mousseMS5611.jpg" %}
+{% include tutoimg.md name="mousseMS5611.JPG" %}
 
 
 Vérifiez que le boîtier ferme correctement. **Ne pas appliquer trop de pression!** Vous pouvez placer les vis.
@@ -52,7 +52,7 @@ Vérifiez que le boîtier ferme correctement. **Ne pas appliquer trop de pressio
 {% include tutoimg.md name="IMG_8838.JPG" %}
 
 Vous pouvez replacer l'écran si besoin. **Décoller doucement le double face et replacez l'écran avec prudence et en n'appliquant pas trop de pression!** Le plus simple est d'utiliser une lame d'un cutter sur laquelle vous aurez mis quelques gouttes d'alcool pour dissoudre la colle.
-{% include tutoimg.md name="cutter.jpg" %}
+{% include tutoimg.md name="cutter.JPG" %}
 {% include tutoimg.md name="IMG_8843.JPG" %}
 
 Terminez en plaçant le HP au font du support et en refermant le boitier
